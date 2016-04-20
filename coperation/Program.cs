@@ -16,7 +16,7 @@ namespace coperation
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm搜尋寵物住宿());
+            Application.Run(new frm線上購物());
         }
     }
 }
