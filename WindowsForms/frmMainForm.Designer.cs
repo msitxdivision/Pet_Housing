@@ -158,7 +158,7 @@
             this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControl1.Font = new System.Drawing.Font("新細明體", 16F);
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
-            this.tabControl1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabControl1.Margin = new System.Windows.Forms.Padding(2);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(788, 486);
@@ -171,9 +171,9 @@
             this.tabSearch.Controls.Add(this.label8);
             this.tabSearch.Controls.Add(this.panel1);
             this.tabSearch.Location = new System.Drawing.Point(4, 31);
-            this.tabSearch.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabSearch.Margin = new System.Windows.Forms.Padding(2);
             this.tabSearch.Name = "tabSearch";
-            this.tabSearch.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabSearch.Padding = new System.Windows.Forms.Padding(2);
             this.tabSearch.Size = new System.Drawing.Size(780, 451);
             this.tabSearch.TabIndex = 0;
             this.tabSearch.Text = " 搜尋寵物住宿 ";
@@ -199,7 +199,7 @@
             this.panel2.Controls.Add(this.cmbSearchMyPetRequireArea);
             this.panel2.Controls.Add(this.label4);
             this.panel2.Location = new System.Drawing.Point(370, 58);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel2.Margin = new System.Windows.Forms.Padding(2);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(318, 303);
             this.panel2.TabIndex = 11;
@@ -207,7 +207,7 @@
             // btnSearchMe
             // 
             this.btnSearchMe.Location = new System.Drawing.Point(122, 222);
-            this.btnSearchMe.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnSearchMe.Margin = new System.Windows.Forms.Padding(2);
             this.btnSearchMe.Name = "btnSearchMe";
             this.btnSearchMe.Size = new System.Drawing.Size(80, 34);
             this.btnSearchMe.TabIndex = 10;
@@ -227,7 +227,7 @@
             // dateTimePicker1
             // 
             this.dateTimePicker1.Location = new System.Drawing.Point(154, 110);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(2);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(151, 33);
             this.dateTimePicker1.TabIndex = 9;
@@ -236,7 +236,7 @@
             // 
             this.cmbSearchMyPet.FormattingEnabled = true;
             this.cmbSearchMyPet.Location = new System.Drawing.Point(154, 18);
-            this.cmbSearchMyPet.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmbSearchMyPet.Margin = new System.Windows.Forms.Padding(2);
             this.cmbSearchMyPet.Name = "cmbSearchMyPet";
             this.cmbSearchMyPet.Size = new System.Drawing.Size(92, 29);
             this.cmbSearchMyPet.TabIndex = 7;
@@ -255,7 +255,7 @@
             // 
             this.cmbSearchMyPetRequireArea.FormattingEnabled = true;
             this.cmbSearchMyPetRequireArea.Location = new System.Drawing.Point(154, 64);
-            this.cmbSearchMyPetRequireArea.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmbSearchMyPetRequireArea.Margin = new System.Windows.Forms.Padding(2);
             this.cmbSearchMyPetRequireArea.Name = "cmbSearchMyPetRequireArea";
             this.cmbSearchMyPetRequireArea.Size = new System.Drawing.Size(92, 29);
             this.cmbSearchMyPetRequireArea.TabIndex = 8;
@@ -276,9 +276,9 @@
             this.label8.Location = new System.Drawing.Point(107, 34);
             this.label8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(172, 22);
+            this.label8.Size = new System.Drawing.Size(142, 22);
             this.label8.TabIndex = 14;
-            this.label8.Text = "所有寵物住宿xxx";
+            this.label8.Text = "所有寵物住宿";
             // 
             // panel1
             // 
@@ -292,7 +292,7 @@
             this.panel1.Controls.Add(this.cmbSearchPetType);
             this.panel1.Controls.Add(this.cmbSearchPetSize);
             this.panel1.Location = new System.Drawing.Point(20, 58);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(307, 303);
             this.panel1.TabIndex = 10;
@@ -300,7 +300,7 @@
             // btnSearchALL
             // 
             this.btnSearchALL.Location = new System.Drawing.Point(104, 222);
-            this.btnSearchALL.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnSearchALL.Margin = new System.Windows.Forms.Padding(2);
             this.btnSearchALL.Name = "btnSearchALL";
             this.btnSearchALL.Size = new System.Drawing.Size(80, 34);
             this.btnSearchALL.TabIndex = 15;
@@ -310,7 +310,7 @@
             // dateTimePicker2
             // 
             this.dateTimePicker2.Location = new System.Drawing.Point(128, 162);
-            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(2);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(151, 33);
             this.dateTimePicker2.TabIndex = 13;
@@ -329,7 +329,7 @@
             // 
             this.cmbSearchAllPetRequireArea.FormattingEnabled = true;
             this.cmbSearchAllPetRequireArea.Location = new System.Drawing.Point(128, 117);
-            this.cmbSearchAllPetRequireArea.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmbSearchAllPetRequireArea.Margin = new System.Windows.Forms.Padding(2);
             this.cmbSearchAllPetRequireArea.Name = "cmbSearchAllPetRequireArea";
             this.cmbSearchAllPetRequireArea.Size = new System.Drawing.Size(92, 29);
             this.cmbSearchAllPetRequireArea.TabIndex = 12;
@@ -368,7 +368,7 @@
             // 
             this.cmbSearchPetType.FormattingEnabled = true;
             this.cmbSearchPetType.Location = new System.Drawing.Point(128, 37);
-            this.cmbSearchPetType.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmbSearchPetType.Margin = new System.Windows.Forms.Padding(2);
             this.cmbSearchPetType.Name = "cmbSearchPetType";
             this.cmbSearchPetType.Size = new System.Drawing.Size(92, 29);
             this.cmbSearchPetType.TabIndex = 4;
@@ -377,7 +377,7 @@
             // 
             this.cmbSearchPetSize.FormattingEnabled = true;
             this.cmbSearchPetSize.Location = new System.Drawing.Point(128, 75);
-            this.cmbSearchPetSize.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmbSearchPetSize.Margin = new System.Windows.Forms.Padding(2);
             this.cmbSearchPetSize.Name = "cmbSearchPetSize";
             this.cmbSearchPetSize.Size = new System.Drawing.Size(92, 29);
             this.cmbSearchPetSize.TabIndex = 5;
@@ -399,9 +399,9 @@
             this.tabInn.Controls.Add(this.cmbChooseSpace);
             this.tabInn.Controls.Add(this.dateTimePicker3);
             this.tabInn.Location = new System.Drawing.Point(4, 31);
-            this.tabInn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabInn.Margin = new System.Windows.Forms.Padding(2);
             this.tabInn.Name = "tabInn";
-            this.tabInn.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabInn.Padding = new System.Windows.Forms.Padding(2);
             this.tabInn.Size = new System.Drawing.Size(780, 451);
             this.tabInn.TabIndex = 1;
             this.tabInn.Text = " 提供寵物住宿 ";
@@ -410,7 +410,7 @@
             // txtCharge
             // 
             this.txtCharge.Location = new System.Drawing.Point(178, 164);
-            this.txtCharge.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtCharge.Margin = new System.Windows.Forms.Padding(2);
             this.txtCharge.Name = "txtCharge";
             this.txtCharge.Size = new System.Drawing.Size(92, 33);
             this.txtCharge.TabIndex = 20;
@@ -419,7 +419,7 @@
             // 
             this.checkBox6.AutoSize = true;
             this.checkBox6.Location = new System.Drawing.Point(194, 310);
-            this.checkBox6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.checkBox6.Margin = new System.Windows.Forms.Padding(2);
             this.checkBox6.Name = "checkBox6";
             this.checkBox6.Size = new System.Drawing.Size(73, 26);
             this.checkBox6.TabIndex = 16;
@@ -430,7 +430,7 @@
             // 
             this.checkBox5.AutoSize = true;
             this.checkBox5.Location = new System.Drawing.Point(194, 339);
-            this.checkBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.checkBox5.Margin = new System.Windows.Forms.Padding(2);
             this.checkBox5.Name = "checkBox5";
             this.checkBox5.Size = new System.Drawing.Size(73, 26);
             this.checkBox5.TabIndex = 15;
@@ -451,7 +451,7 @@
             // 
             this.checkBox4.AutoSize = true;
             this.checkBox4.Location = new System.Drawing.Point(194, 250);
-            this.checkBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.checkBox4.Margin = new System.Windows.Forms.Padding(2);
             this.checkBox4.Name = "checkBox4";
             this.checkBox4.Size = new System.Drawing.Size(73, 26);
             this.checkBox4.TabIndex = 13;
@@ -472,7 +472,7 @@
             // 
             this.checkBox3.AutoSize = true;
             this.checkBox3.Location = new System.Drawing.Point(194, 280);
-            this.checkBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.checkBox3.Margin = new System.Windows.Forms.Padding(2);
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(73, 26);
             this.checkBox3.TabIndex = 14;
@@ -483,7 +483,7 @@
             // 
             this.checkBox2.AutoSize = true;
             this.checkBox2.Location = new System.Drawing.Point(262, 206);
-            this.checkBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.checkBox2.Margin = new System.Windows.Forms.Padding(2);
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(73, 26);
             this.checkBox2.TabIndex = 6;
@@ -494,7 +494,7 @@
             // 
             this.checkBox1.AutoSize = true;
             this.checkBox1.Location = new System.Drawing.Point(178, 206);
-            this.checkBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.checkBox1.Margin = new System.Windows.Forms.Padding(2);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(73, 26);
             this.checkBox1.TabIndex = 5;
@@ -535,7 +535,7 @@
             // 
             this.cmbChooseSpace.FormattingEnabled = true;
             this.cmbChooseSpace.Location = new System.Drawing.Point(178, 67);
-            this.cmbChooseSpace.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmbChooseSpace.Margin = new System.Windows.Forms.Padding(2);
             this.cmbChooseSpace.Name = "cmbChooseSpace";
             this.cmbChooseSpace.Size = new System.Drawing.Size(92, 29);
             this.cmbChooseSpace.TabIndex = 1;
@@ -543,7 +543,7 @@
             // dateTimePicker3
             // 
             this.dateTimePicker3.Location = new System.Drawing.Point(178, 114);
-            this.dateTimePicker3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dateTimePicker3.Margin = new System.Windows.Forms.Padding(2);
             this.dateTimePicker3.Name = "dateTimePicker3";
             this.dateTimePicker3.Size = new System.Drawing.Size(178, 33);
             this.dateTimePicker3.TabIndex = 0;
@@ -552,7 +552,7 @@
             // 
             this.tabShop.Controls.Add(this.splitContainer1);
             this.tabShop.Location = new System.Drawing.Point(4, 31);
-            this.tabShop.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabShop.Margin = new System.Windows.Forms.Padding(2);
             this.tabShop.Name = "tabShop";
             this.tabShop.Size = new System.Drawing.Size(780, 451);
             this.tabShop.TabIndex = 3;
@@ -563,7 +563,7 @@
             // 
             this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.splitContainer1.Location = new System.Drawing.Point(0, 0);
-            this.splitContainer1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.splitContainer1.Margin = new System.Windows.Forms.Padding(2);
             this.splitContainer1.Name = "splitContainer1";
             // 
             // splitContainer1.Panel1
@@ -604,7 +604,7 @@
             // 
             this.splitContainer2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.splitContainer2.Location = new System.Drawing.Point(0, 0);
-            this.splitContainer2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.splitContainer2.Margin = new System.Windows.Forms.Padding(2);
             this.splitContainer2.Name = "splitContainer2";
             // 
             // splitContainer2.Panel1
@@ -623,7 +623,7 @@
             // 
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 0);
-            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(2);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Size = new System.Drawing.Size(556, 451);
             this.flowLayoutPanel1.TabIndex = 0;
@@ -631,7 +631,7 @@
             // btnpaycheck
             // 
             this.btnpaycheck.Location = new System.Drawing.Point(0, 414);
-            this.btnpaycheck.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnpaycheck.Margin = new System.Windows.Forms.Padding(2);
             this.btnpaycheck.Name = "btnpaycheck";
             this.btnpaycheck.Size = new System.Drawing.Size(56, 33);
             this.btnpaycheck.TabIndex = 0;
@@ -642,9 +642,9 @@
             // 
             this.tabUpdate.Controls.Add(this.tabControl2);
             this.tabUpdate.Location = new System.Drawing.Point(4, 31);
-            this.tabUpdate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabUpdate.Margin = new System.Windows.Forms.Padding(2);
             this.tabUpdate.Name = "tabUpdate";
-            this.tabUpdate.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabUpdate.Padding = new System.Windows.Forms.Padding(2);
             this.tabUpdate.Size = new System.Drawing.Size(780, 451);
             this.tabUpdate.TabIndex = 2;
             this.tabUpdate.Text = " 修改資料 ";
@@ -657,7 +657,7 @@
             this.tabControl2.Controls.Add(this.tabPage3);
             this.tabControl2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControl2.Location = new System.Drawing.Point(2, 2);
-            this.tabControl2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabControl2.Margin = new System.Windows.Forms.Padding(2);
             this.tabControl2.Name = "tabControl2";
             this.tabControl2.SelectedIndex = 0;
             this.tabControl2.Size = new System.Drawing.Size(776, 447);
@@ -667,9 +667,9 @@
             // 
             this.tabPage1.Controls.Add(this.groupBox1);
             this.tabPage1.Location = new System.Drawing.Point(4, 31);
-            this.tabPage1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage1.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(2);
             this.tabPage1.Size = new System.Drawing.Size(768, 412);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "會員基本資料";
@@ -696,9 +696,9 @@
             this.groupBox1.Controls.Add(this.txtAlterMail);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox1.Location = new System.Drawing.Point(2, 2);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox1.Size = new System.Drawing.Size(764, 408);
             this.groupBox1.TabIndex = 35;
             this.groupBox1.TabStop = false;
@@ -706,7 +706,7 @@
             // btnAlterSave
             // 
             this.btnAlterSave.Location = new System.Drawing.Point(28, 356);
-            this.btnAlterSave.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnAlterSave.Margin = new System.Windows.Forms.Padding(2);
             this.btnAlterSave.Name = "btnAlterSave";
             this.btnAlterSave.Size = new System.Drawing.Size(86, 30);
             this.btnAlterSave.TabIndex = 51;
@@ -716,7 +716,7 @@
             // dateTimePickerAlter
             // 
             this.dateTimePickerAlter.Location = new System.Drawing.Point(164, 256);
-            this.dateTimePickerAlter.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dateTimePickerAlter.Margin = new System.Windows.Forms.Padding(2);
             this.dateTimePickerAlter.Name = "dateTimePickerAlter";
             this.dateTimePickerAlter.Size = new System.Drawing.Size(76, 33);
             this.dateTimePickerAlter.TabIndex = 50;
@@ -734,7 +734,7 @@
             // txtAlterPhone
             // 
             this.txtAlterPhone.Location = new System.Drawing.Point(164, 292);
-            this.txtAlterPhone.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterPhone.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterPhone.Name = "txtAlterPhone";
             this.txtAlterPhone.Size = new System.Drawing.Size(76, 33);
             this.txtAlterPhone.TabIndex = 34;
@@ -762,7 +762,7 @@
             // txtAlterID
             // 
             this.txtAlterID.Location = new System.Drawing.Point(164, 220);
-            this.txtAlterID.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterID.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterID.Name = "txtAlterID";
             this.txtAlterID.Size = new System.Drawing.Size(76, 33);
             this.txtAlterID.TabIndex = 32;
@@ -780,7 +780,7 @@
             // txtAlterFirstName
             // 
             this.txtAlterFirstName.Location = new System.Drawing.Point(164, 184);
-            this.txtAlterFirstName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterFirstName.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterFirstName.Name = "txtAlterFirstName";
             this.txtAlterFirstName.Size = new System.Drawing.Size(76, 33);
             this.txtAlterFirstName.TabIndex = 31;
@@ -798,7 +798,7 @@
             // txtAlterLastName
             // 
             this.txtAlterLastName.Location = new System.Drawing.Point(164, 152);
-            this.txtAlterLastName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterLastName.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterLastName.Name = "txtAlterLastName";
             this.txtAlterLastName.Size = new System.Drawing.Size(76, 33);
             this.txtAlterLastName.TabIndex = 30;
@@ -816,7 +816,7 @@
             // txtAlterPassCheck
             // 
             this.txtAlterPassCheck.Location = new System.Drawing.Point(164, 118);
-            this.txtAlterPassCheck.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterPassCheck.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterPassCheck.Name = "txtAlterPassCheck";
             this.txtAlterPassCheck.Size = new System.Drawing.Size(76, 33);
             this.txtAlterPassCheck.TabIndex = 29;
@@ -834,7 +834,7 @@
             // txtAlterPass
             // 
             this.txtAlterPass.Location = new System.Drawing.Point(164, 83);
-            this.txtAlterPass.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterPass.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterPass.Name = "txtAlterPass";
             this.txtAlterPass.Size = new System.Drawing.Size(76, 33);
             this.txtAlterPass.TabIndex = 28;
@@ -852,7 +852,7 @@
             // txtAlterMail
             // 
             this.txtAlterMail.Location = new System.Drawing.Point(164, 50);
-            this.txtAlterMail.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterMail.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterMail.Name = "txtAlterMail";
             this.txtAlterMail.Size = new System.Drawing.Size(76, 33);
             this.txtAlterMail.TabIndex = 27;
@@ -861,10 +861,10 @@
             // 
             this.tabPage2.Controls.Add(this.groupBox2);
             this.tabPage2.Location = new System.Drawing.Point(4, 31);
-            this.tabPage2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage2.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.tabPage2.Size = new System.Drawing.Size(769, 414);
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(2);
+            this.tabPage2.Size = new System.Drawing.Size(768, 412);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "新增寵物";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -891,17 +891,17 @@
             this.groupBox2.Controls.Add(this.txtAlterPetWeight);
             this.groupBox2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox2.Location = new System.Drawing.Point(2, 2);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.groupBox2.Size = new System.Drawing.Size(765, 410);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox2.Size = new System.Drawing.Size(764, 408);
             this.groupBox2.TabIndex = 55;
             this.groupBox2.TabStop = false;
             // 
             // btnAlterSelectPic
             // 
             this.btnAlterSelectPic.Location = new System.Drawing.Point(144, 367);
-            this.btnAlterSelectPic.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnAlterSelectPic.Margin = new System.Windows.Forms.Padding(2);
             this.btnAlterSelectPic.Name = "btnAlterSelectPic";
             this.btnAlterSelectPic.Size = new System.Drawing.Size(67, 29);
             this.btnAlterSelectPic.TabIndex = 58;
@@ -911,7 +911,7 @@
             // btnAlterAddPetSave
             // 
             this.btnAlterAddPetSave.Location = new System.Drawing.Point(323, 356);
-            this.btnAlterAddPetSave.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnAlterAddPetSave.Margin = new System.Windows.Forms.Padding(2);
             this.btnAlterAddPetSave.Name = "btnAlterAddPetSave";
             this.btnAlterAddPetSave.Size = new System.Drawing.Size(86, 30);
             this.btnAlterAddPetSave.TabIndex = 57;
@@ -922,7 +922,7 @@
             // 
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Location = new System.Drawing.Point(136, 90);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(2);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(76, 29);
             this.comboBox1.TabIndex = 55;
@@ -931,7 +931,7 @@
             // 
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Location = new System.Drawing.Point(136, 158);
-            this.comboBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.comboBox2.Margin = new System.Windows.Forms.Padding(2);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(76, 29);
             this.comboBox2.TabIndex = 56;
@@ -949,7 +949,7 @@
             // picAlterPetPic
             // 
             this.picAlterPetPic.Location = new System.Drawing.Point(61, 356);
-            this.picAlterPetPic.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.picAlterPetPic.Margin = new System.Windows.Forms.Padding(2);
             this.picAlterPetPic.Name = "picAlterPetPic";
             this.picAlterPetPic.Size = new System.Drawing.Size(75, 40);
             this.picAlterPetPic.TabIndex = 54;
@@ -958,7 +958,7 @@
             // txtAlterPetName
             // 
             this.txtAlterPetName.Location = new System.Drawing.Point(136, 54);
-            this.txtAlterPetName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterPetName.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterPetName.Name = "txtAlterPetName";
             this.txtAlterPetName.Size = new System.Drawing.Size(76, 33);
             this.txtAlterPetName.TabIndex = 42;
@@ -986,7 +986,7 @@
             // txtAlterNotice
             // 
             this.txtAlterNotice.Location = new System.Drawing.Point(144, 263);
-            this.txtAlterNotice.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterNotice.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterNotice.Multiline = true;
             this.txtAlterNotice.Name = "txtAlterNotice";
             this.txtAlterNotice.Size = new System.Drawing.Size(185, 73);
@@ -995,7 +995,7 @@
             // dateTimePicker4
             // 
             this.dateTimePicker4.Location = new System.Drawing.Point(136, 188);
-            this.dateTimePicker4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dateTimePicker4.Margin = new System.Windows.Forms.Padding(2);
             this.dateTimePicker4.Name = "dateTimePicker4";
             this.dateTimePicker4.Size = new System.Drawing.Size(76, 33);
             this.dateTimePicker4.TabIndex = 49;
@@ -1023,7 +1023,7 @@
             // txtAlterPetBrid
             // 
             this.txtAlterPetBrid.Location = new System.Drawing.Point(136, 122);
-            this.txtAlterPetBrid.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterPetBrid.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterPetBrid.Name = "txtAlterPetBrid";
             this.txtAlterPetBrid.Size = new System.Drawing.Size(76, 33);
             this.txtAlterPetBrid.TabIndex = 44;
@@ -1061,7 +1061,7 @@
             // txtAlterPetWeight
             // 
             this.txtAlterPetWeight.Location = new System.Drawing.Point(136, 224);
-            this.txtAlterPetWeight.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterPetWeight.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterPetWeight.Name = "txtAlterPetWeight";
             this.txtAlterPetWeight.Size = new System.Drawing.Size(76, 33);
             this.txtAlterPetWeight.TabIndex = 47;
@@ -1080,9 +1080,9 @@
             this.tabPage3.Controls.Add(this.txtAddNewSpace);
             this.tabPage3.Controls.Add(this.label32);
             this.tabPage3.Location = new System.Drawing.Point(4, 31);
-            this.tabPage3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage3.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(769, 414);
+            this.tabPage3.Size = new System.Drawing.Size(768, 412);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "新增住宿";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -1090,7 +1090,7 @@
             // btnAlterAddLiveSave
             // 
             this.btnAlterAddLiveSave.Location = new System.Drawing.Point(53, 364);
-            this.btnAlterAddLiveSave.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnAlterAddLiveSave.Margin = new System.Windows.Forms.Padding(2);
             this.btnAlterAddLiveSave.Name = "btnAlterAddLiveSave";
             this.btnAlterAddLiveSave.Size = new System.Drawing.Size(76, 30);
             this.btnAlterAddLiveSave.TabIndex = 10;
@@ -1101,7 +1101,7 @@
             // 
             this.cmdAlterSpaceName.FormattingEnabled = true;
             this.cmdAlterSpaceName.Location = new System.Drawing.Point(158, 14);
-            this.cmdAlterSpaceName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmdAlterSpaceName.Margin = new System.Windows.Forms.Padding(2);
             this.cmdAlterSpaceName.Name = "cmdAlterSpaceName";
             this.cmdAlterSpaceName.Size = new System.Drawing.Size(76, 29);
             this.cmdAlterSpaceName.TabIndex = 9;
@@ -1119,7 +1119,7 @@
             // txtServiceContent
             // 
             this.txtServiceContent.Location = new System.Drawing.Point(158, 182);
-            this.txtServiceContent.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtServiceContent.Margin = new System.Windows.Forms.Padding(2);
             this.txtServiceContent.Multiline = true;
             this.txtServiceContent.Name = "txtServiceContent";
             this.txtServiceContent.Size = new System.Drawing.Size(199, 164);
@@ -1139,7 +1139,7 @@
             // 
             this.cmbAlterProvideSpace.FormattingEnabled = true;
             this.cmbAlterProvideSpace.Location = new System.Drawing.Point(158, 128);
-            this.cmbAlterProvideSpace.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmbAlterProvideSpace.Margin = new System.Windows.Forms.Padding(2);
             this.cmbAlterProvideSpace.Name = "cmbAlterProvideSpace";
             this.cmbAlterProvideSpace.Size = new System.Drawing.Size(76, 29);
             this.cmbAlterProvideSpace.TabIndex = 5;
@@ -1157,7 +1157,7 @@
             // txtAlterSpaceAMount
             // 
             this.txtAlterSpaceAMount.Location = new System.Drawing.Point(158, 86);
-            this.txtAlterSpaceAMount.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAlterSpaceAMount.Margin = new System.Windows.Forms.Padding(2);
             this.txtAlterSpaceAMount.Name = "txtAlterSpaceAMount";
             this.txtAlterSpaceAMount.Size = new System.Drawing.Size(76, 33);
             this.txtAlterSpaceAMount.TabIndex = 3;
@@ -1175,7 +1175,7 @@
             // txtAddNewSpace
             // 
             this.txtAddNewSpace.Location = new System.Drawing.Point(158, 49);
-            this.txtAddNewSpace.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAddNewSpace.Margin = new System.Windows.Forms.Padding(2);
             this.txtAddNewSpace.Name = "txtAddNewSpace";
             this.txtAddNewSpace.Size = new System.Drawing.Size(76, 33);
             this.txtAddNewSpace.TabIndex = 1;
@@ -1197,7 +1197,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(788, 486);
             this.Controls.Add(this.tabControl1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmMainForm";
             this.Text = "frmMainForm";
             this.tabControl1.ResumeLayout(false);
