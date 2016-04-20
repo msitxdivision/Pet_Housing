@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ClsShopping">
+      <HintPath>..\..\專題\work\專題Forms\ClsShopping\bin\Debug\ClsShopping.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -70,6 +73,12 @@
     <Compile Include="frm修改資料.Designer.cs">
       <DependentUpon>frm修改資料.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm購物明細.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm購物明細.designer.cs">
+      <DependentUpon>frm購物明細.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="frm搜尋寵物住宿.resx">
       <DependentUpon>frm搜尋寵物住宿.cs</DependentUpon>
     </EmbeddedResource>
@@ -90,6 +99,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frm修改資料.resx">
       <DependentUpon>frm修改資料.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm購物明細.resx">
+      <DependentUpon>frm購物明細.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

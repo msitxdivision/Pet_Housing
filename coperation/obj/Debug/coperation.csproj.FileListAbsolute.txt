@@ -1,0 +1,15 @@
+C:\Users\III\Desktop\Pet_Housing\coperation\bin\Debug\coperation.exe.config
+C:\Users\III\Desktop\Pet_Housing\coperation\obj\Debug\coperation.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\Pet_Housing\coperation\obj\Debug\coperation.frm搜尋寵物住宿.resources
+C:\Users\III\Desktop\Pet_Housing\coperation\obj\Debug\coperation.frm線上購物.resources
+C:\Users\III\Desktop\Pet_Housing\coperation\obj\Debug\coperation.Properties.Resources.resources
+C:\Users\III\Desktop\Pet_Housing\coperation\obj\Debug\coperation.frm提供寵物住宿.resources
+C:\Users\III\Desktop\Pet_Housing\coperation\obj\Debug\coperation.frm修改資料.resources
+C:\Users\III\Desktop\Pet_Housing\coperation\obj\Debug\WindowsForms.ShopDetail.resources
+C:\Users\III\Desktop\Pet_Housing\coperation\obj\Debug\coperation.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\Pet_Housing\coperation\bin\Debug\coperation.exe
+C:\Users\III\Desktop\Pet_Housing\coperation\bin\Debug\coperation.pdb
+C:\Users\III\Desktop\Pet_Housing\coperation\bin\Debug\ClsShopping.dll
+C:\Users\III\Desktop\Pet_Housing\coperation\bin\Debug\ClsShopping.pdb
+C:\Users\III\Desktop\Pet_Housing\coperation\obj\Debug\coperation.exe
+C:\Users\III\Desktop\Pet_Housing\coperation\obj\Debug\coperation.pdb

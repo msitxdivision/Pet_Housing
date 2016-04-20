@@ -29,3 +29,16 @@ C:\Users\III\Desktop\專題Forms\WindowsForms\obj\Debug\WindowsForms.csproj.Gene
 E:\Pet\WindowsForms\bin\Debug\WindowsForms.exe.config
 E:\Pet\WindowsForms\obj\Debug\WindowsForms.exe
 E:\Pet\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\obj\Debug\WindowsForms.frmLogin.resources
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\obj\Debug\WindowsForms.frmMainForm.resources
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\obj\Debug\WindowsForms.frmNewMember.resources
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\obj\Debug\WindowsForms.frmSearchResult.resources
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\obj\Debug\WindowsForms.frmShoppingList.resources
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\III\Desktop\Pet_Housing\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
