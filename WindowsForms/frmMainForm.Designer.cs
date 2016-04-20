@@ -66,72 +66,72 @@
             this.cmbChooseSpace = new System.Windows.Forms.ComboBox();
             this.dateTimePicker3 = new System.Windows.Forms.DateTimePicker();
             this.tabShop = new System.Windows.Forms.TabPage();
+            this.tabUpdate = new System.Windows.Forms.TabPage();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
-            this.label15 = new System.Windows.Forms.Label();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+            this.label15 = new System.Windows.Forms.Label();
             this.splitContainer2 = new System.Windows.Forms.SplitContainer();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.btnpaycheck = new System.Windows.Forms.Button();
-            this.tabUpdate = new System.Windows.Forms.TabPage();
-            this.tabControl2 = new System.Windows.Forms.TabControl();
-            this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.btnAlterSave = new System.Windows.Forms.Button();
-            this.dateTimePickerAlter = new System.Windows.Forms.DateTimePicker();
-            this.label21 = new System.Windows.Forms.Label();
             this.txtAlterPhone = new System.Windows.Forms.TextBox();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
             this.txtAlterID = new System.Windows.Forms.TextBox();
-            this.label20 = new System.Windows.Forms.Label();
             this.txtAlterFirstName = new System.Windows.Forms.TextBox();
-            this.label19 = new System.Windows.Forms.Label();
             this.txtAlterLastName = new System.Windows.Forms.TextBox();
-            this.label18 = new System.Windows.Forms.Label();
             this.txtAlterPassCheck = new System.Windows.Forms.TextBox();
-            this.label17 = new System.Windows.Forms.Label();
             this.txtAlterPass = new System.Windows.Forms.TextBox();
-            this.label16 = new System.Windows.Forms.Label();
             this.txtAlterMail = new System.Windows.Forms.TextBox();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.btnAlterSelectPic = new System.Windows.Forms.Button();
-            this.btnAlterAddPetSave = new System.Windows.Forms.Button();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label23 = new System.Windows.Forms.Label();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label24 = new System.Windows.Forms.Label();
-            this.picAlterPetPic = new System.Windows.Forms.PictureBox();
-            this.txtAlterPetName = new System.Windows.Forms.TextBox();
-            this.label31 = new System.Windows.Forms.Label();
-            this.label29 = new System.Windows.Forms.Label();
-            this.txtAlterNotice = new System.Windows.Forms.TextBox();
-            this.dateTimePicker4 = new System.Windows.Forms.DateTimePicker();
-            this.label28 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
-            this.txtAlterPetBrid = new System.Windows.Forms.TextBox();
             this.label25 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
             this.txtAlterPetWeight = new System.Windows.Forms.TextBox();
+            this.label27 = new System.Windows.Forms.Label();
+            this.txtAlterPetBrid = new System.Windows.Forms.TextBox();
+            this.label28 = new System.Windows.Forms.Label();
+            this.label29 = new System.Windows.Forms.Label();
+            this.txtAlterPetName = new System.Windows.Forms.TextBox();
+            this.label30 = new System.Windows.Forms.Label();
+            this.dateTimePicker4 = new System.Windows.Forms.DateTimePicker();
+            this.dateTimePickerAlter = new System.Windows.Forms.DateTimePicker();
+            this.txtAlterNotice = new System.Windows.Forms.TextBox();
+            this.label31 = new System.Windows.Forms.Label();
+            this.picAlterPetPic = new System.Windows.Forms.PictureBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.tabControl2 = new System.Windows.Forms.TabControl();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.btnAlterAddLiveSave = new System.Windows.Forms.Button();
-            this.cmdAlterSpaceName = new System.Windows.Forms.ComboBox();
-            this.label36 = new System.Windows.Forms.Label();
-            this.txtServiceContent = new System.Windows.Forms.TextBox();
-            this.label35 = new System.Windows.Forms.Label();
-            this.cmbAlterProvideSpace = new System.Windows.Forms.ComboBox();
-            this.label34 = new System.Windows.Forms.Label();
+            this.label32 = new System.Windows.Forms.Label();
+            this.txtAddNewSpace = new System.Windows.Forms.TextBox();
             this.txtAlterSpaceAMount = new System.Windows.Forms.TextBox();
             this.label33 = new System.Windows.Forms.Label();
-            this.txtAddNewSpace = new System.Windows.Forms.TextBox();
-            this.label32 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.label34 = new System.Windows.Forms.Label();
+            this.cmbAlterProvideSpace = new System.Windows.Forms.ComboBox();
+            this.label35 = new System.Windows.Forms.Label();
+            this.txtServiceContent = new System.Windows.Forms.TextBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.label36 = new System.Windows.Forms.Label();
+            this.cmdAlterSpaceName = new System.Windows.Forms.ComboBox();
+            this.btnAlterSave = new System.Windows.Forms.Button();
+            this.btnAlterAddPetSave = new System.Windows.Forms.Button();
+            this.btnAlterAddLiveSave = new System.Windows.Forms.Button();
+            this.btnAlterSelectPic = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabSearch.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             this.tabInn.SuspendLayout();
             this.tabShop.SuspendLayout();
+            this.tabUpdate.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -140,13 +140,12 @@
             this.splitContainer2.Panel1.SuspendLayout();
             this.splitContainer2.Panel2.SuspendLayout();
             this.splitContainer2.SuspendLayout();
-            this.tabUpdate.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picAlterPetPic)).BeginInit();
+            this.groupBox2.SuspendLayout();
             this.tabControl2.SuspendLayout();
             this.tabPage1.SuspendLayout();
-            this.groupBox1.SuspendLayout();
             this.tabPage2.SuspendLayout();
-            this.groupBox2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picAlterPetPic)).BeginInit();
             this.tabPage3.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -159,14 +158,9 @@
             this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControl1.Font = new System.Drawing.Font("新細明體", 16F);
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
-<<<<<<< HEAD
-            this.tabControl1.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.tabControl1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1051, 608);
+            this.tabControl1.Size = new System.Drawing.Size(1050, 608);
             this.tabControl1.TabIndex = 0;
             // 
             // tabSearch
@@ -175,19 +169,10 @@
             this.tabSearch.Controls.Add(this.panel2);
             this.tabSearch.Controls.Add(this.label8);
             this.tabSearch.Controls.Add(this.panel1);
-<<<<<<< HEAD
-            this.tabSearch.Location = new System.Drawing.Point(4, 31);
-            this.tabSearch.Margin = new System.Windows.Forms.Padding(2);
-            this.tabSearch.Name = "tabSearch";
-            this.tabSearch.Padding = new System.Windows.Forms.Padding(2);
-            this.tabSearch.Size = new System.Drawing.Size(780, 451);
-=======
             this.tabSearch.Location = new System.Drawing.Point(4, 37);
-            this.tabSearch.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabSearch.Name = "tabSearch";
-            this.tabSearch.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabSearch.Size = new System.Drawing.Size(1043, 567);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.tabSearch.Padding = new System.Windows.Forms.Padding(3);
+            this.tabSearch.Size = new System.Drawing.Size(1042, 567);
             this.tabSearch.TabIndex = 0;
             this.tabSearch.Text = " 搜尋寵物住宿 ";
             this.tabSearch.UseVisualStyleBackColor = true;
@@ -195,7 +180,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(620, 42);
+            this.label9.Location = new System.Drawing.Point(620, 43);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(174, 27);
             this.label9.TabIndex = 15;
@@ -210,28 +195,16 @@
             this.panel2.Controls.Add(this.label3);
             this.panel2.Controls.Add(this.cmbSearchMyPetRequireArea);
             this.panel2.Controls.Add(this.label4);
-<<<<<<< HEAD
-            this.panel2.Location = new System.Drawing.Point(370, 58);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.panel2.Location = new System.Drawing.Point(493, 72);
-            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.panel2.Location = new System.Drawing.Point(493, 73);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(424, 379);
             this.panel2.TabIndex = 11;
             // 
             // btnSearchMe
             // 
-<<<<<<< HEAD
-            this.btnSearchMe.Location = new System.Drawing.Point(122, 222);
-            this.btnSearchMe.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.btnSearchMe.Location = new System.Drawing.Point(163, 278);
-            this.btnSearchMe.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.btnSearchMe.Location = new System.Drawing.Point(162, 278);
             this.btnSearchMe.Name = "btnSearchMe";
-            this.btnSearchMe.Size = new System.Drawing.Size(107, 42);
+            this.btnSearchMe.Size = new System.Drawing.Size(106, 42);
             this.btnSearchMe.TabIndex = 10;
             this.btnSearchMe.Text = "搜尋";
             this.btnSearchMe.UseVisualStyleBackColor = true;
@@ -239,7 +212,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(31, 22);
+            this.label5.Location = new System.Drawing.Point(31, 23);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(120, 27);
             this.label5.TabIndex = 6;
@@ -247,13 +220,7 @@
             // 
             // dateTimePicker1
             // 
-<<<<<<< HEAD
-            this.dateTimePicker1.Location = new System.Drawing.Point(154, 110);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.dateTimePicker1.Location = new System.Drawing.Point(205, 138);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.dateTimePicker1.Location = new System.Drawing.Point(206, 137);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 39);
             this.dateTimePicker1.TabIndex = 9;
@@ -261,13 +228,7 @@
             // cmbSearchMyPet
             // 
             this.cmbSearchMyPet.FormattingEnabled = true;
-<<<<<<< HEAD
-            this.cmbSearchMyPet.Location = new System.Drawing.Point(154, 18);
-            this.cmbSearchMyPet.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.cmbSearchMyPet.Location = new System.Drawing.Point(205, 22);
-            this.cmbSearchMyPet.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.cmbSearchMyPet.Location = new System.Drawing.Point(206, 23);
             this.cmbSearchMyPet.Name = "cmbSearchMyPet";
             this.cmbSearchMyPet.Size = new System.Drawing.Size(121, 35);
             this.cmbSearchMyPet.TabIndex = 7;
@@ -275,7 +236,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(31, 82);
+            this.label3.Location = new System.Drawing.Point(31, 83);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(120, 27);
             this.label3.TabIndex = 2;
@@ -284,13 +245,7 @@
             // cmbSearchMyPetRequireArea
             // 
             this.cmbSearchMyPetRequireArea.FormattingEnabled = true;
-<<<<<<< HEAD
-            this.cmbSearchMyPetRequireArea.Location = new System.Drawing.Point(154, 64);
-            this.cmbSearchMyPetRequireArea.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.cmbSearchMyPetRequireArea.Location = new System.Drawing.Point(205, 80);
-            this.cmbSearchMyPetRequireArea.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.cmbSearchMyPetRequireArea.Location = new System.Drawing.Point(206, 80);
             this.cmbSearchMyPetRequireArea.Name = "cmbSearchMyPetRequireArea";
             this.cmbSearchMyPetRequireArea.Size = new System.Drawing.Size(121, 35);
             this.cmbSearchMyPetRequireArea.TabIndex = 8;
@@ -298,7 +253,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(31, 138);
+            this.label4.Location = new System.Drawing.Point(31, 137);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(120, 27);
             this.label4.TabIndex = 3;
@@ -307,13 +262,9 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(143, 42);
+            this.label8.Location = new System.Drawing.Point(143, 43);
             this.label8.Name = "label8";
-<<<<<<< HEAD
-            this.label8.Size = new System.Drawing.Size(142, 22);
-=======
-            this.label8.Size = new System.Drawing.Size(213, 27);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.label8.Size = new System.Drawing.Size(174, 27);
             this.label8.TabIndex = 14;
             this.label8.Text = "所有寵物住宿";
             // 
@@ -328,41 +279,23 @@
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.cmbSearchPetType);
             this.panel1.Controls.Add(this.cmbSearchPetSize);
-<<<<<<< HEAD
-            this.panel1.Location = new System.Drawing.Point(20, 58);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.panel1.Location = new System.Drawing.Point(27, 72);
-            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.panel1.Location = new System.Drawing.Point(26, 73);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(409, 379);
             this.panel1.TabIndex = 10;
             // 
             // btnSearchALL
             // 
-<<<<<<< HEAD
-            this.btnSearchALL.Location = new System.Drawing.Point(104, 222);
-            this.btnSearchALL.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.btnSearchALL.Location = new System.Drawing.Point(139, 278);
-            this.btnSearchALL.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.btnSearchALL.Location = new System.Drawing.Point(138, 278);
             this.btnSearchALL.Name = "btnSearchALL";
-            this.btnSearchALL.Size = new System.Drawing.Size(107, 42);
+            this.btnSearchALL.Size = new System.Drawing.Size(106, 42);
             this.btnSearchALL.TabIndex = 15;
             this.btnSearchALL.Text = "搜尋";
             this.btnSearchALL.UseVisualStyleBackColor = true;
             // 
             // dateTimePicker2
             // 
-<<<<<<< HEAD
-            this.dateTimePicker2.Location = new System.Drawing.Point(128, 162);
-            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.dateTimePicker2.Location = new System.Drawing.Point(171, 202);
-            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.dateTimePicker2.Location = new System.Drawing.Point(170, 203);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(200, 39);
             this.dateTimePicker2.TabIndex = 13;
@@ -379,13 +312,7 @@
             // cmbSearchAllPetRequireArea
             // 
             this.cmbSearchAllPetRequireArea.FormattingEnabled = true;
-<<<<<<< HEAD
-            this.cmbSearchAllPetRequireArea.Location = new System.Drawing.Point(128, 117);
-            this.cmbSearchAllPetRequireArea.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.cmbSearchAllPetRequireArea.Location = new System.Drawing.Point(171, 146);
-            this.cmbSearchAllPetRequireArea.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.cmbSearchAllPetRequireArea.Location = new System.Drawing.Point(170, 146);
             this.cmbSearchAllPetRequireArea.Name = "cmbSearchAllPetRequireArea";
             this.cmbSearchAllPetRequireArea.Size = new System.Drawing.Size(121, 35);
             this.cmbSearchAllPetRequireArea.TabIndex = 12;
@@ -393,7 +320,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(-5, 202);
+            this.label7.Location = new System.Drawing.Point(-5, 203);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(120, 27);
             this.label7.TabIndex = 11;
@@ -420,13 +347,7 @@
             // cmbSearchPetType
             // 
             this.cmbSearchPetType.FormattingEnabled = true;
-<<<<<<< HEAD
-            this.cmbSearchPetType.Location = new System.Drawing.Point(128, 37);
-            this.cmbSearchPetType.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.cmbSearchPetType.Location = new System.Drawing.Point(171, 46);
-            this.cmbSearchPetType.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.cmbSearchPetType.Location = new System.Drawing.Point(170, 46);
             this.cmbSearchPetType.Name = "cmbSearchPetType";
             this.cmbSearchPetType.Size = new System.Drawing.Size(121, 35);
             this.cmbSearchPetType.TabIndex = 4;
@@ -434,20 +355,13 @@
             // cmbSearchPetSize
             // 
             this.cmbSearchPetSize.FormattingEnabled = true;
-<<<<<<< HEAD
-            this.cmbSearchPetSize.Location = new System.Drawing.Point(128, 75);
-            this.cmbSearchPetSize.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.cmbSearchPetSize.Location = new System.Drawing.Point(171, 94);
-            this.cmbSearchPetSize.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.cmbSearchPetSize.Location = new System.Drawing.Point(170, 94);
             this.cmbSearchPetSize.Name = "cmbSearchPetSize";
             this.cmbSearchPetSize.Size = new System.Drawing.Size(121, 35);
             this.cmbSearchPetSize.TabIndex = 5;
             // 
             // tabInn
             // 
-            this.tabInn.Controls.Add(this.button1);
             this.tabInn.Controls.Add(this.txtCharge);
             this.tabInn.Controls.Add(this.checkBox6);
             this.tabInn.Controls.Add(this.checkBox5);
@@ -462,32 +376,17 @@
             this.tabInn.Controls.Add(this.label10);
             this.tabInn.Controls.Add(this.cmbChooseSpace);
             this.tabInn.Controls.Add(this.dateTimePicker3);
-<<<<<<< HEAD
-            this.tabInn.Location = new System.Drawing.Point(4, 31);
-            this.tabInn.Margin = new System.Windows.Forms.Padding(2);
-            this.tabInn.Name = "tabInn";
-            this.tabInn.Padding = new System.Windows.Forms.Padding(2);
-            this.tabInn.Size = new System.Drawing.Size(780, 451);
-=======
             this.tabInn.Location = new System.Drawing.Point(4, 37);
-            this.tabInn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabInn.Name = "tabInn";
-            this.tabInn.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabInn.Size = new System.Drawing.Size(1043, 567);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.tabInn.Padding = new System.Windows.Forms.Padding(3);
+            this.tabInn.Size = new System.Drawing.Size(1042, 567);
             this.tabInn.TabIndex = 1;
             this.tabInn.Text = " 提供寵物住宿 ";
             this.tabInn.UseVisualStyleBackColor = true;
             // 
             // txtCharge
             // 
-<<<<<<< HEAD
-            this.txtCharge.Location = new System.Drawing.Point(178, 164);
-            this.txtCharge.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtCharge.Location = new System.Drawing.Point(237, 205);
-            this.txtCharge.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.txtCharge.Location = new System.Drawing.Point(238, 205);
             this.txtCharge.Name = "txtCharge";
             this.txtCharge.Size = new System.Drawing.Size(121, 39);
             this.txtCharge.TabIndex = 20;
@@ -495,13 +394,7 @@
             // checkBox6
             // 
             this.checkBox6.AutoSize = true;
-<<<<<<< HEAD
-            this.checkBox6.Location = new System.Drawing.Point(194, 310);
-            this.checkBox6.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.checkBox6.Location = new System.Drawing.Point(259, 388);
-            this.checkBox6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.checkBox6.Location = new System.Drawing.Point(258, 387);
             this.checkBox6.Name = "checkBox6";
             this.checkBox6.Size = new System.Drawing.Size(88, 31);
             this.checkBox6.TabIndex = 16;
@@ -511,13 +404,7 @@
             // checkBox5
             // 
             this.checkBox5.AutoSize = true;
-<<<<<<< HEAD
-            this.checkBox5.Location = new System.Drawing.Point(194, 339);
-            this.checkBox5.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.checkBox5.Location = new System.Drawing.Point(259, 424);
-            this.checkBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.checkBox5.Location = new System.Drawing.Point(258, 424);
             this.checkBox5.Name = "checkBox5";
             this.checkBox5.Size = new System.Drawing.Size(88, 31);
             this.checkBox5.TabIndex = 15;
@@ -527,7 +414,7 @@
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(59, 208);
+            this.label14.Location = new System.Drawing.Point(58, 208);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(66, 27);
             this.label14.TabIndex = 9;
@@ -536,13 +423,7 @@
             // checkBox4
             // 
             this.checkBox4.AutoSize = true;
-<<<<<<< HEAD
-            this.checkBox4.Location = new System.Drawing.Point(194, 250);
-            this.checkBox4.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.checkBox4.Location = new System.Drawing.Point(259, 312);
-            this.checkBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.checkBox4.Location = new System.Drawing.Point(258, 313);
             this.checkBox4.Name = "checkBox4";
             this.checkBox4.Size = new System.Drawing.Size(88, 31);
             this.checkBox4.TabIndex = 13;
@@ -552,7 +433,7 @@
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(59, 312);
+            this.label13.Location = new System.Drawing.Point(58, 313);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(174, 27);
             this.label13.TabIndex = 7;
@@ -561,13 +442,7 @@
             // checkBox3
             // 
             this.checkBox3.AutoSize = true;
-<<<<<<< HEAD
-            this.checkBox3.Location = new System.Drawing.Point(194, 280);
-            this.checkBox3.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.checkBox3.Location = new System.Drawing.Point(259, 350);
-            this.checkBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.checkBox3.Location = new System.Drawing.Point(258, 350);
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(88, 31);
             this.checkBox3.TabIndex = 14;
@@ -577,13 +452,7 @@
             // checkBox2
             // 
             this.checkBox2.AutoSize = true;
-<<<<<<< HEAD
-            this.checkBox2.Location = new System.Drawing.Point(262, 206);
-            this.checkBox2.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.checkBox2.Location = new System.Drawing.Point(349, 258);
-            this.checkBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.checkBox2.Location = new System.Drawing.Point(350, 258);
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(88, 31);
             this.checkBox2.TabIndex = 6;
@@ -593,13 +462,7 @@
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-<<<<<<< HEAD
-            this.checkBox1.Location = new System.Drawing.Point(178, 206);
-            this.checkBox1.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.checkBox1.Location = new System.Drawing.Point(237, 258);
-            this.checkBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.checkBox1.Location = new System.Drawing.Point(238, 258);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(88, 31);
             this.checkBox1.TabIndex = 5;
@@ -609,7 +472,7 @@
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(59, 258);
+            this.label12.Location = new System.Drawing.Point(58, 258);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(120, 27);
             this.label12.TabIndex = 4;
@@ -618,7 +481,7 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(59, 151);
+            this.label11.Location = new System.Drawing.Point(58, 151);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(120, 27);
             this.label11.TabIndex = 3;
@@ -627,7 +490,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(59, 88);
+            this.label10.Location = new System.Drawing.Point(58, 87);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(120, 27);
             this.label10.TabIndex = 2;
@@ -636,26 +499,14 @@
             // cmbChooseSpace
             // 
             this.cmbChooseSpace.FormattingEnabled = true;
-<<<<<<< HEAD
-            this.cmbChooseSpace.Location = new System.Drawing.Point(178, 67);
-            this.cmbChooseSpace.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.cmbChooseSpace.Location = new System.Drawing.Point(237, 84);
-            this.cmbChooseSpace.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.cmbChooseSpace.Location = new System.Drawing.Point(238, 84);
             this.cmbChooseSpace.Name = "cmbChooseSpace";
             this.cmbChooseSpace.Size = new System.Drawing.Size(121, 35);
             this.cmbChooseSpace.TabIndex = 1;
             // 
             // dateTimePicker3
             // 
-<<<<<<< HEAD
-            this.dateTimePicker3.Location = new System.Drawing.Point(178, 114);
-            this.dateTimePicker3.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.dateTimePicker3.Location = new System.Drawing.Point(237, 142);
-            this.dateTimePicker3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.dateTimePicker3.Location = new System.Drawing.Point(238, 143);
             this.dateTimePicker3.Name = "dateTimePicker3";
             this.dateTimePicker3.Size = new System.Drawing.Size(236, 39);
             this.dateTimePicker3.TabIndex = 0;
@@ -663,28 +514,28 @@
             // tabShop
             // 
             this.tabShop.Controls.Add(this.splitContainer1);
-<<<<<<< HEAD
-            this.tabShop.Location = new System.Drawing.Point(4, 31);
-            this.tabShop.Margin = new System.Windows.Forms.Padding(2);
-=======
             this.tabShop.Location = new System.Drawing.Point(4, 37);
-            this.tabShop.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
             this.tabShop.Name = "tabShop";
-            this.tabShop.Size = new System.Drawing.Size(1043, 567);
+            this.tabShop.Size = new System.Drawing.Size(1042, 567);
             this.tabShop.TabIndex = 3;
             this.tabShop.Text = " 線上購物 ";
             this.tabShop.UseVisualStyleBackColor = true;
+            // 
+            // tabUpdate
+            // 
+            this.tabUpdate.Controls.Add(this.tabControl2);
+            this.tabUpdate.Location = new System.Drawing.Point(4, 37);
+            this.tabUpdate.Name = "tabUpdate";
+            this.tabUpdate.Padding = new System.Windows.Forms.Padding(3);
+            this.tabUpdate.Size = new System.Drawing.Size(1042, 567);
+            this.tabUpdate.TabIndex = 2;
+            this.tabUpdate.Text = " 修改資料 ";
+            this.tabUpdate.UseVisualStyleBackColor = true;
             // 
             // splitContainer1
             // 
             this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.splitContainer1.Location = new System.Drawing.Point(0, 0);
-<<<<<<< HEAD
-            this.splitContainer1.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.splitContainer1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
             this.splitContainer1.Name = "splitContainer1";
             // 
             // splitContainer1.Panel1
@@ -695,18 +546,9 @@
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.Controls.Add(this.splitContainer2);
-            this.splitContainer1.Size = new System.Drawing.Size(1043, 567);
-            this.splitContainer1.SplitterDistance = 212;
+            this.splitContainer1.Size = new System.Drawing.Size(1042, 567);
+            this.splitContainer1.SplitterDistance = 213;
             this.splitContainer1.TabIndex = 0;
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(44, 22);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(66, 27);
-            this.label15.TabIndex = 1;
-            this.label15.Text = "種類";
             // 
             // linkLabel1
             // 
@@ -718,15 +560,19 @@
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "linkLabel1";
             // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(44, 23);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(66, 27);
+            this.label15.TabIndex = 1;
+            this.label15.Text = "種類";
+            // 
             // splitContainer2
             // 
             this.splitContainer2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.splitContainer2.Location = new System.Drawing.Point(0, 0);
-<<<<<<< HEAD
-            this.splitContainer2.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.splitContainer2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
             this.splitContainer2.Name = "splitContainer2";
             // 
             // splitContainer2.Panel1
@@ -736,95 +582,147 @@
             // splitContainer2.Panel2
             // 
             this.splitContainer2.Panel2.Controls.Add(this.btnpaycheck);
-            this.splitContainer2.Size = new System.Drawing.Size(827, 567);
-            this.splitContainer2.SplitterDistance = 744;
+            this.splitContainer2.Size = new System.Drawing.Size(825, 567);
+            this.splitContainer2.SplitterDistance = 743;
             this.splitContainer2.TabIndex = 0;
             // 
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 0);
-<<<<<<< HEAD
-            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(744, 567);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(743, 567);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
             // btnpaycheck
             // 
-<<<<<<< HEAD
-            this.btnpaycheck.Location = new System.Drawing.Point(0, 414);
-            this.btnpaycheck.Margin = new System.Windows.Forms.Padding(2);
-=======
             this.btnpaycheck.Location = new System.Drawing.Point(0, 518);
-            this.btnpaycheck.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
             this.btnpaycheck.Name = "btnpaycheck";
             this.btnpaycheck.Size = new System.Drawing.Size(75, 41);
             this.btnpaycheck.TabIndex = 0;
             this.btnpaycheck.Text = "結帳";
             this.btnpaycheck.UseVisualStyleBackColor = true;
             // 
-            // tabUpdate
+            // txtAlterPhone
             // 
-            this.tabUpdate.Controls.Add(this.tabControl2);
-<<<<<<< HEAD
-            this.tabUpdate.Location = new System.Drawing.Point(4, 31);
-            this.tabUpdate.Margin = new System.Windows.Forms.Padding(2);
-            this.tabUpdate.Name = "tabUpdate";
-            this.tabUpdate.Padding = new System.Windows.Forms.Padding(2);
-            this.tabUpdate.Size = new System.Drawing.Size(780, 451);
-=======
-            this.tabUpdate.Location = new System.Drawing.Point(4, 37);
-            this.tabUpdate.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabUpdate.Name = "tabUpdate";
-            this.tabUpdate.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabUpdate.Size = new System.Drawing.Size(1043, 567);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.tabUpdate.TabIndex = 2;
-            this.tabUpdate.Text = " 修改資料 ";
-            this.tabUpdate.UseVisualStyleBackColor = true;
+            this.txtAlterPhone.Location = new System.Drawing.Point(219, 365);
+            this.txtAlterPhone.Name = "txtAlterPhone";
+            this.txtAlterPhone.Size = new System.Drawing.Size(100, 39);
+            this.txtAlterPhone.TabIndex = 34;
             // 
-            // tabControl2
+            // txtAlterID
             // 
-            this.tabControl2.Controls.Add(this.tabPage1);
-            this.tabControl2.Controls.Add(this.tabPage2);
-            this.tabControl2.Controls.Add(this.tabPage3);
-            this.tabControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-<<<<<<< HEAD
-            this.tabControl2.Location = new System.Drawing.Point(2, 2);
-            this.tabControl2.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.tabControl2.Location = new System.Drawing.Point(3, 2);
-            this.tabControl2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.tabControl2.Name = "tabControl2";
-            this.tabControl2.SelectedIndex = 0;
-            this.tabControl2.Size = new System.Drawing.Size(1037, 563);
-            this.tabControl2.TabIndex = 56;
+            this.txtAlterID.Location = new System.Drawing.Point(219, 275);
+            this.txtAlterID.Name = "txtAlterID";
+            this.txtAlterID.Size = new System.Drawing.Size(100, 39);
+            this.txtAlterID.TabIndex = 32;
             // 
-            // tabPage1
+            // txtAlterFirstName
             // 
-            this.tabPage1.Controls.Add(this.groupBox1);
-<<<<<<< HEAD
-            this.tabPage1.Location = new System.Drawing.Point(4, 31);
-            this.tabPage1.Margin = new System.Windows.Forms.Padding(2);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(2);
-            this.tabPage1.Size = new System.Drawing.Size(768, 412);
-=======
-            this.tabPage1.Location = new System.Drawing.Point(4, 37);
-            this.tabPage1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabPage1.Size = new System.Drawing.Size(1029, 522);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "會員基本資料";
-            this.tabPage1.UseVisualStyleBackColor = true;
+            this.txtAlterFirstName.Location = new System.Drawing.Point(219, 230);
+            this.txtAlterFirstName.Name = "txtAlterFirstName";
+            this.txtAlterFirstName.Size = new System.Drawing.Size(100, 39);
+            this.txtAlterFirstName.TabIndex = 31;
+            // 
+            // txtAlterLastName
+            // 
+            this.txtAlterLastName.Location = new System.Drawing.Point(219, 190);
+            this.txtAlterLastName.Name = "txtAlterLastName";
+            this.txtAlterLastName.Size = new System.Drawing.Size(100, 39);
+            this.txtAlterLastName.TabIndex = 30;
+            // 
+            // txtAlterPassCheck
+            // 
+            this.txtAlterPassCheck.Location = new System.Drawing.Point(219, 148);
+            this.txtAlterPassCheck.Name = "txtAlterPassCheck";
+            this.txtAlterPassCheck.Size = new System.Drawing.Size(100, 39);
+            this.txtAlterPassCheck.TabIndex = 29;
+            // 
+            // txtAlterPass
+            // 
+            this.txtAlterPass.Location = new System.Drawing.Point(219, 104);
+            this.txtAlterPass.Name = "txtAlterPass";
+            this.txtAlterPass.Size = new System.Drawing.Size(100, 39);
+            this.txtAlterPass.TabIndex = 28;
+            // 
+            // txtAlterMail
+            // 
+            this.txtAlterMail.Location = new System.Drawing.Point(219, 63);
+            this.txtAlterMail.Name = "txtAlterMail";
+            this.txtAlterMail.Size = new System.Drawing.Size(100, 39);
+            this.txtAlterMail.TabIndex = 27;
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(33, 148);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(120, 27);
+            this.label16.TabIndex = 26;
+            this.label16.Text = "確認密碼";
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(33, 104);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(66, 27);
+            this.label17.TabIndex = 25;
+            this.label17.Text = "密碼";
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Location = new System.Drawing.Point(33, 355);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(120, 27);
+            this.label18.TabIndex = 24;
+            this.label18.Text = "聯絡電話";
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(33, 311);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(147, 27);
+            this.label19.TabIndex = 23;
+            this.label19.Text = "出生年月日";
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(33, 268);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(147, 27);
+            this.label20.TabIndex = 22;
+            this.label20.Text = "身份證字號";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Location = new System.Drawing.Point(33, 63);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(81, 27);
+            this.label21.TabIndex = 21;
+            this.label21.Text = "E-mail";
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Location = new System.Drawing.Point(33, 230);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(66, 27);
+            this.label22.TabIndex = 20;
+            this.label22.Text = "名字";
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Location = new System.Drawing.Point(33, 190);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(66, 27);
+            this.label23.TabIndex = 19;
+            this.label23.Text = "姓氏";
             // 
             // groupBox1
             // 
@@ -846,232 +744,134 @@
             this.groupBox1.Controls.Add(this.label16);
             this.groupBox1.Controls.Add(this.txtAlterMail);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-<<<<<<< HEAD
-            this.groupBox1.Location = new System.Drawing.Point(2, 2);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.groupBox1.Location = new System.Drawing.Point(3, 3);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
-            this.groupBox1.Size = new System.Drawing.Size(764, 408);
-=======
-            this.groupBox1.Location = new System.Drawing.Point(3, 2);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.groupBox1.Size = new System.Drawing.Size(1023, 518);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.groupBox1.Size = new System.Drawing.Size(1022, 514);
             this.groupBox1.TabIndex = 35;
             this.groupBox1.TabStop = false;
             // 
-            // btnAlterSave
+            // label24
             // 
-<<<<<<< HEAD
-            this.btnAlterSave.Location = new System.Drawing.Point(28, 356);
-            this.btnAlterSave.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.btnAlterSave.Location = new System.Drawing.Point(37, 445);
-            this.btnAlterSave.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.btnAlterSave.Name = "btnAlterSave";
-            this.btnAlterSave.Size = new System.Drawing.Size(115, 38);
-            this.btnAlterSave.TabIndex = 51;
-            this.btnAlterSave.Text = "儲存";
-            this.btnAlterSave.UseVisualStyleBackColor = true;
+            this.label24.AutoSize = true;
+            this.label24.Location = new System.Drawing.Point(-5, 68);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(120, 27);
+            this.label24.TabIndex = 38;
+            this.label24.Text = "寵物姓名";
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.Location = new System.Drawing.Point(-5, 195);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(120, 27);
+            this.label25.TabIndex = 36;
+            this.label25.Text = "寵物體型";
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.Location = new System.Drawing.Point(-5, 235);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(120, 27);
+            this.label26.TabIndex = 37;
+            this.label26.Text = "出生年份";
+            // 
+            // txtAlterPetWeight
+            // 
+            this.txtAlterPetWeight.Location = new System.Drawing.Point(181, 280);
+            this.txtAlterPetWeight.Name = "txtAlterPetWeight";
+            this.txtAlterPetWeight.Size = new System.Drawing.Size(100, 39);
+            this.txtAlterPetWeight.TabIndex = 47;
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.Location = new System.Drawing.Point(-5, 283);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(66, 27);
+            this.label27.TabIndex = 39;
+            this.label27.Text = "體重";
+            // 
+            // txtAlterPetBrid
+            // 
+            this.txtAlterPetBrid.Location = new System.Drawing.Point(181, 153);
+            this.txtAlterPetBrid.Name = "txtAlterPetBrid";
+            this.txtAlterPetBrid.Size = new System.Drawing.Size(100, 39);
+            this.txtAlterPetBrid.TabIndex = 44;
+            // 
+            // label28
+            // 
+            this.label28.AutoSize = true;
+            this.label28.Location = new System.Drawing.Point(-5, 109);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(120, 27);
+            this.label28.TabIndex = 40;
+            this.label28.Text = "寵物類型";
+            // 
+            // label29
+            // 
+            this.label29.AutoSize = true;
+            this.label29.Location = new System.Drawing.Point(-5, 153);
+            this.label29.Name = "label29";
+            this.label29.Size = new System.Drawing.Size(120, 27);
+            this.label29.TabIndex = 41;
+            this.label29.Text = "寵物品種";
+            // 
+            // txtAlterPetName
+            // 
+            this.txtAlterPetName.Location = new System.Drawing.Point(181, 68);
+            this.txtAlterPetName.Name = "txtAlterPetName";
+            this.txtAlterPetName.Size = new System.Drawing.Size(100, 39);
+            this.txtAlterPetName.TabIndex = 42;
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.Location = new System.Drawing.Point(-5, 329);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(201, 27);
+            this.label30.TabIndex = 48;
+            this.label30.Text = "介紹及注意事項";
+            // 
+            // dateTimePicker4
+            // 
+            this.dateTimePicker4.Location = new System.Drawing.Point(181, 235);
+            this.dateTimePicker4.Name = "dateTimePicker4";
+            this.dateTimePicker4.Size = new System.Drawing.Size(100, 39);
+            this.dateTimePicker4.TabIndex = 49;
             // 
             // dateTimePickerAlter
             // 
-<<<<<<< HEAD
-            this.dateTimePickerAlter.Location = new System.Drawing.Point(164, 256);
-            this.dateTimePickerAlter.Margin = new System.Windows.Forms.Padding(2);
-=======
             this.dateTimePickerAlter.Location = new System.Drawing.Point(219, 320);
-            this.dateTimePickerAlter.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
             this.dateTimePickerAlter.Name = "dateTimePickerAlter";
             this.dateTimePickerAlter.Size = new System.Drawing.Size(100, 39);
             this.dateTimePickerAlter.TabIndex = 50;
             // 
-            // label21
+            // txtAlterNotice
             // 
-            this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(33, 62);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(81, 27);
-            this.label21.TabIndex = 21;
-            this.label21.Text = "E-mail";
+            this.txtAlterNotice.Location = new System.Drawing.Point(192, 329);
+            this.txtAlterNotice.Multiline = true;
+            this.txtAlterNotice.Name = "txtAlterNotice";
+            this.txtAlterNotice.Size = new System.Drawing.Size(245, 90);
+            this.txtAlterNotice.TabIndex = 52;
             // 
-            // txtAlterPhone
+            // label31
             // 
-<<<<<<< HEAD
-            this.txtAlterPhone.Location = new System.Drawing.Point(164, 292);
-            this.txtAlterPhone.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterPhone.Location = new System.Drawing.Point(219, 365);
-            this.txtAlterPhone.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterPhone.Name = "txtAlterPhone";
-            this.txtAlterPhone.Size = new System.Drawing.Size(100, 39);
-            this.txtAlterPhone.TabIndex = 34;
+            this.label31.AutoSize = true;
+            this.label31.Location = new System.Drawing.Point(-5, 445);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(66, 27);
+            this.label31.TabIndex = 53;
+            this.label31.Text = "照片";
             // 
-            // label23
+            // picAlterPetPic
             // 
-            this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(33, 190);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(66, 27);
-            this.label23.TabIndex = 19;
-            this.label23.Text = "姓氏";
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(33, 230);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(66, 27);
-            this.label22.TabIndex = 20;
-            this.label22.Text = "名字";
-            // 
-            // txtAlterID
-            // 
-<<<<<<< HEAD
-            this.txtAlterID.Location = new System.Drawing.Point(164, 220);
-            this.txtAlterID.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterID.Location = new System.Drawing.Point(219, 275);
-            this.txtAlterID.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterID.Name = "txtAlterID";
-            this.txtAlterID.Size = new System.Drawing.Size(100, 39);
-            this.txtAlterID.TabIndex = 32;
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(33, 268);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(147, 27);
-            this.label20.TabIndex = 22;
-            this.label20.Text = "身份證字號";
-            // 
-            // txtAlterFirstName
-            // 
-<<<<<<< HEAD
-            this.txtAlterFirstName.Location = new System.Drawing.Point(164, 184);
-            this.txtAlterFirstName.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterFirstName.Location = new System.Drawing.Point(219, 230);
-            this.txtAlterFirstName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterFirstName.Name = "txtAlterFirstName";
-            this.txtAlterFirstName.Size = new System.Drawing.Size(100, 39);
-            this.txtAlterFirstName.TabIndex = 31;
-            // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(33, 311);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(147, 27);
-            this.label19.TabIndex = 23;
-            this.label19.Text = "出生年月日";
-            // 
-            // txtAlterLastName
-            // 
-<<<<<<< HEAD
-            this.txtAlterLastName.Location = new System.Drawing.Point(164, 152);
-            this.txtAlterLastName.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterLastName.Location = new System.Drawing.Point(219, 190);
-            this.txtAlterLastName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterLastName.Name = "txtAlterLastName";
-            this.txtAlterLastName.Size = new System.Drawing.Size(100, 39);
-            this.txtAlterLastName.TabIndex = 30;
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(33, 355);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(120, 27);
-            this.label18.TabIndex = 24;
-            this.label18.Text = "聯絡電話";
-            // 
-            // txtAlterPassCheck
-            // 
-<<<<<<< HEAD
-            this.txtAlterPassCheck.Location = new System.Drawing.Point(164, 118);
-            this.txtAlterPassCheck.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterPassCheck.Location = new System.Drawing.Point(219, 148);
-            this.txtAlterPassCheck.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterPassCheck.Name = "txtAlterPassCheck";
-            this.txtAlterPassCheck.Size = new System.Drawing.Size(100, 39);
-            this.txtAlterPassCheck.TabIndex = 29;
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(33, 104);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(66, 27);
-            this.label17.TabIndex = 25;
-            this.label17.Text = "密碼";
-            // 
-            // txtAlterPass
-            // 
-<<<<<<< HEAD
-            this.txtAlterPass.Location = new System.Drawing.Point(164, 83);
-            this.txtAlterPass.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterPass.Location = new System.Drawing.Point(219, 104);
-            this.txtAlterPass.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterPass.Name = "txtAlterPass";
-            this.txtAlterPass.Size = new System.Drawing.Size(100, 39);
-            this.txtAlterPass.TabIndex = 28;
-            // 
-            // label16
-            // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(33, 148);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(120, 27);
-            this.label16.TabIndex = 26;
-            this.label16.Text = "確認密碼";
-            // 
-            // txtAlterMail
-            // 
-<<<<<<< HEAD
-            this.txtAlterMail.Location = new System.Drawing.Point(164, 50);
-            this.txtAlterMail.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterMail.Location = new System.Drawing.Point(219, 62);
-            this.txtAlterMail.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterMail.Name = "txtAlterMail";
-            this.txtAlterMail.Size = new System.Drawing.Size(100, 39);
-            this.txtAlterMail.TabIndex = 27;
-            // 
-            // tabPage2
-            // 
-            this.tabPage2.Controls.Add(this.groupBox2);
-<<<<<<< HEAD
-            this.tabPage2.Location = new System.Drawing.Point(4, 31);
-            this.tabPage2.Margin = new System.Windows.Forms.Padding(2);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(2);
-            this.tabPage2.Size = new System.Drawing.Size(768, 412);
-=======
-            this.tabPage2.Location = new System.Drawing.Point(4, 37);
-            this.tabPage2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabPage2.Size = new System.Drawing.Size(1027, 518);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "新增寵物";
-            this.tabPage2.UseVisualStyleBackColor = true;
+            this.picAlterPetPic.Location = new System.Drawing.Point(81, 445);
+            this.picAlterPetPic.Name = "picAlterPetPic";
+            this.picAlterPetPic.Size = new System.Drawing.Size(100, 50);
+            this.picAlterPetPic.TabIndex = 54;
+            this.picAlterPetPic.TabStop = false;
             // 
             // groupBox2
             // 
@@ -1094,231 +894,45 @@
             this.groupBox2.Controls.Add(this.label26);
             this.groupBox2.Controls.Add(this.txtAlterPetWeight);
             this.groupBox2.Dock = System.Windows.Forms.DockStyle.Fill;
-<<<<<<< HEAD
-            this.groupBox2.Location = new System.Drawing.Point(2, 2);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(2);
+            this.groupBox2.Location = new System.Drawing.Point(3, 3);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(2);
-            this.groupBox2.Size = new System.Drawing.Size(764, 408);
-=======
-            this.groupBox2.Location = new System.Drawing.Point(3, 2);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.groupBox2.Size = new System.Drawing.Size(1021, 514);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.groupBox2.Size = new System.Drawing.Size(1022, 514);
             this.groupBox2.TabIndex = 55;
             this.groupBox2.TabStop = false;
             // 
-            // btnAlterSelectPic
+            // tabControl2
             // 
-<<<<<<< HEAD
-            this.btnAlterSelectPic.Location = new System.Drawing.Point(144, 367);
-            this.btnAlterSelectPic.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.btnAlterSelectPic.Location = new System.Drawing.Point(192, 459);
-            this.btnAlterSelectPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.btnAlterSelectPic.Name = "btnAlterSelectPic";
-            this.btnAlterSelectPic.Size = new System.Drawing.Size(89, 36);
-            this.btnAlterSelectPic.TabIndex = 58;
-            this.btnAlterSelectPic.Text = "瀏覽";
-            this.btnAlterSelectPic.UseVisualStyleBackColor = true;
+            this.tabControl2.Controls.Add(this.tabPage1);
+            this.tabControl2.Controls.Add(this.tabPage2);
+            this.tabControl2.Controls.Add(this.tabPage3);
+            this.tabControl2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tabControl2.Location = new System.Drawing.Point(3, 3);
+            this.tabControl2.Name = "tabControl2";
+            this.tabControl2.SelectedIndex = 0;
+            this.tabControl2.Size = new System.Drawing.Size(1036, 561);
+            this.tabControl2.TabIndex = 56;
             // 
-            // btnAlterAddPetSave
+            // tabPage1
             // 
-<<<<<<< HEAD
-            this.btnAlterAddPetSave.Location = new System.Drawing.Point(323, 356);
-            this.btnAlterAddPetSave.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.btnAlterAddPetSave.Location = new System.Drawing.Point(431, 445);
-            this.btnAlterAddPetSave.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.btnAlterAddPetSave.Name = "btnAlterAddPetSave";
-            this.btnAlterAddPetSave.Size = new System.Drawing.Size(115, 38);
-            this.btnAlterAddPetSave.TabIndex = 57;
-            this.btnAlterAddPetSave.Text = "儲存";
-            this.btnAlterAddPetSave.UseVisualStyleBackColor = true;
+            this.tabPage1.Controls.Add(this.groupBox1);
+            this.tabPage1.Location = new System.Drawing.Point(4, 37);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(1028, 520);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "會員基本資料";
+            this.tabPage1.UseVisualStyleBackColor = true;
             // 
-            // comboBox1
+            // tabPage2
             // 
-            this.comboBox1.FormattingEnabled = true;
-<<<<<<< HEAD
-            this.comboBox1.Location = new System.Drawing.Point(136, 90);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.comboBox1.Location = new System.Drawing.Point(181, 112);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(100, 35);
-            this.comboBox1.TabIndex = 55;
-            // 
-            // comboBox2
-            // 
-            this.comboBox2.FormattingEnabled = true;
-<<<<<<< HEAD
-            this.comboBox2.Location = new System.Drawing.Point(136, 158);
-            this.comboBox2.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.comboBox2.Location = new System.Drawing.Point(181, 198);
-            this.comboBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(100, 35);
-            this.comboBox2.TabIndex = 56;
-            // 
-            // label24
-            // 
-            this.label24.AutoSize = true;
-            this.label24.Location = new System.Drawing.Point(-5, 68);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(120, 27);
-            this.label24.TabIndex = 38;
-            this.label24.Text = "寵物姓名";
-            // 
-            // picAlterPetPic
-            // 
-<<<<<<< HEAD
-            this.picAlterPetPic.Location = new System.Drawing.Point(61, 356);
-            this.picAlterPetPic.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.picAlterPetPic.Location = new System.Drawing.Point(81, 445);
-            this.picAlterPetPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.picAlterPetPic.Name = "picAlterPetPic";
-            this.picAlterPetPic.Size = new System.Drawing.Size(100, 50);
-            this.picAlterPetPic.TabIndex = 54;
-            this.picAlterPetPic.TabStop = false;
-            // 
-            // txtAlterPetName
-            // 
-<<<<<<< HEAD
-            this.txtAlterPetName.Location = new System.Drawing.Point(136, 54);
-            this.txtAlterPetName.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterPetName.Location = new System.Drawing.Point(181, 68);
-            this.txtAlterPetName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterPetName.Name = "txtAlterPetName";
-            this.txtAlterPetName.Size = new System.Drawing.Size(100, 39);
-            this.txtAlterPetName.TabIndex = 42;
-            // 
-            // label31
-            // 
-            this.label31.AutoSize = true;
-            this.label31.Location = new System.Drawing.Point(-5, 445);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(66, 27);
-            this.label31.TabIndex = 53;
-            this.label31.Text = "照片";
-            // 
-            // label29
-            // 
-            this.label29.AutoSize = true;
-            this.label29.Location = new System.Drawing.Point(-5, 152);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(120, 27);
-            this.label29.TabIndex = 41;
-            this.label29.Text = "寵物品種";
-            // 
-            // txtAlterNotice
-            // 
-<<<<<<< HEAD
-            this.txtAlterNotice.Location = new System.Drawing.Point(144, 263);
-            this.txtAlterNotice.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterNotice.Location = new System.Drawing.Point(192, 329);
-            this.txtAlterNotice.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterNotice.Multiline = true;
-            this.txtAlterNotice.Name = "txtAlterNotice";
-            this.txtAlterNotice.Size = new System.Drawing.Size(245, 90);
-            this.txtAlterNotice.TabIndex = 52;
-            // 
-            // dateTimePicker4
-            // 
-<<<<<<< HEAD
-            this.dateTimePicker4.Location = new System.Drawing.Point(136, 188);
-            this.dateTimePicker4.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.dateTimePicker4.Location = new System.Drawing.Point(181, 235);
-            this.dateTimePicker4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.dateTimePicker4.Name = "dateTimePicker4";
-            this.dateTimePicker4.Size = new System.Drawing.Size(100, 39);
-            this.dateTimePicker4.TabIndex = 49;
-            // 
-            // label28
-            // 
-            this.label28.AutoSize = true;
-            this.label28.Location = new System.Drawing.Point(-5, 109);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(120, 27);
-            this.label28.TabIndex = 40;
-            this.label28.Text = "寵物類型";
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(-5, 329);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(201, 27);
-            this.label30.TabIndex = 48;
-            this.label30.Text = "介紹及注意事項";
-            // 
-            // txtAlterPetBrid
-            // 
-<<<<<<< HEAD
-            this.txtAlterPetBrid.Location = new System.Drawing.Point(136, 122);
-            this.txtAlterPetBrid.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterPetBrid.Location = new System.Drawing.Point(181, 152);
-            this.txtAlterPetBrid.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterPetBrid.Name = "txtAlterPetBrid";
-            this.txtAlterPetBrid.Size = new System.Drawing.Size(100, 39);
-            this.txtAlterPetBrid.TabIndex = 44;
-            // 
-            // label25
-            // 
-            this.label25.AutoSize = true;
-            this.label25.Location = new System.Drawing.Point(-5, 195);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(120, 27);
-            this.label25.TabIndex = 36;
-            this.label25.Text = "寵物體型";
-            // 
-            // label27
-            // 
-            this.label27.AutoSize = true;
-            this.label27.Location = new System.Drawing.Point(-5, 282);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(66, 27);
-            this.label27.TabIndex = 39;
-            this.label27.Text = "體重";
-            // 
-            // label26
-            // 
-            this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(-5, 235);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(120, 27);
-            this.label26.TabIndex = 37;
-            this.label26.Text = "出生年份";
-            // 
-            // txtAlterPetWeight
-            // 
-<<<<<<< HEAD
-            this.txtAlterPetWeight.Location = new System.Drawing.Point(136, 224);
-            this.txtAlterPetWeight.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterPetWeight.Location = new System.Drawing.Point(181, 280);
-            this.txtAlterPetWeight.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAlterPetWeight.Name = "txtAlterPetWeight";
-            this.txtAlterPetWeight.Size = new System.Drawing.Size(100, 39);
-            this.txtAlterPetWeight.TabIndex = 47;
+            this.tabPage2.Controls.Add(this.groupBox2);
+            this.tabPage2.Location = new System.Drawing.Point(4, 37);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(1028, 520);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "新增寵物";
+            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // tabPage3
             // 
@@ -1333,114 +947,33 @@
             this.tabPage3.Controls.Add(this.label33);
             this.tabPage3.Controls.Add(this.txtAddNewSpace);
             this.tabPage3.Controls.Add(this.label32);
-<<<<<<< HEAD
-            this.tabPage3.Location = new System.Drawing.Point(4, 31);
-            this.tabPage3.Margin = new System.Windows.Forms.Padding(2);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(768, 412);
-=======
             this.tabPage3.Location = new System.Drawing.Point(4, 37);
-            this.tabPage3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(1027, 518);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.tabPage3.Size = new System.Drawing.Size(1028, 520);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "新增住宿";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
-            // btnAlterAddLiveSave
+            // label32
             // 
-<<<<<<< HEAD
-            this.btnAlterAddLiveSave.Location = new System.Drawing.Point(53, 364);
-            this.btnAlterAddLiveSave.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.btnAlterAddLiveSave.Location = new System.Drawing.Point(71, 455);
-            this.btnAlterAddLiveSave.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.btnAlterAddLiveSave.Name = "btnAlterAddLiveSave";
-            this.btnAlterAddLiveSave.Size = new System.Drawing.Size(101, 38);
-            this.btnAlterAddLiveSave.TabIndex = 10;
-            this.btnAlterAddLiveSave.Text = "儲存";
-            this.btnAlterAddLiveSave.UseVisualStyleBackColor = true;
+            this.label32.AutoSize = true;
+            this.label32.Location = new System.Drawing.Point(26, 21);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(120, 27);
+            this.label32.TabIndex = 0;
+            this.label32.Text = "空間名稱";
             // 
-            // cmdAlterSpaceName
+            // txtAddNewSpace
             // 
-            this.cmdAlterSpaceName.FormattingEnabled = true;
-<<<<<<< HEAD
-            this.cmdAlterSpaceName.Location = new System.Drawing.Point(158, 14);
-            this.cmdAlterSpaceName.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.cmdAlterSpaceName.Location = new System.Drawing.Point(211, 18);
-            this.cmdAlterSpaceName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.cmdAlterSpaceName.Name = "cmdAlterSpaceName";
-            this.cmdAlterSpaceName.Size = new System.Drawing.Size(100, 35);
-            this.cmdAlterSpaceName.TabIndex = 9;
-            // 
-            // label36
-            // 
-            this.label36.AutoSize = true;
-            this.label36.Location = new System.Drawing.Point(27, 66);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(120, 27);
-            this.label36.TabIndex = 8;
-            this.label36.Text = "新增空間";
-            // 
-            // txtServiceContent
-            // 
-<<<<<<< HEAD
-            this.txtServiceContent.Location = new System.Drawing.Point(158, 182);
-            this.txtServiceContent.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtServiceContent.Location = new System.Drawing.Point(211, 228);
-            this.txtServiceContent.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtServiceContent.Multiline = true;
-            this.txtServiceContent.Name = "txtServiceContent";
-            this.txtServiceContent.Size = new System.Drawing.Size(264, 204);
-            this.txtServiceContent.TabIndex = 7;
-            // 
-            // label35
-            // 
-            this.label35.AutoSize = true;
-            this.label35.Location = new System.Drawing.Point(27, 231);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(174, 27);
-            this.label35.TabIndex = 6;
-            this.label35.Text = "服務敘述內容";
-            // 
-            // cmbAlterProvideSpace
-            // 
-            this.cmbAlterProvideSpace.FormattingEnabled = true;
-<<<<<<< HEAD
-            this.cmbAlterProvideSpace.Location = new System.Drawing.Point(158, 128);
-            this.cmbAlterProvideSpace.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.cmbAlterProvideSpace.Location = new System.Drawing.Point(211, 160);
-            this.cmbAlterProvideSpace.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.cmbAlterProvideSpace.Name = "cmbAlterProvideSpace";
-            this.cmbAlterProvideSpace.Size = new System.Drawing.Size(100, 35);
-            this.cmbAlterProvideSpace.TabIndex = 5;
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.Location = new System.Drawing.Point(27, 162);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(120, 27);
-            this.label34.TabIndex = 4;
-            this.label34.Text = "提供區域";
+            this.txtAddNewSpace.Location = new System.Drawing.Point(210, 61);
+            this.txtAddNewSpace.Name = "txtAddNewSpace";
+            this.txtAddNewSpace.Size = new System.Drawing.Size(100, 39);
+            this.txtAddNewSpace.TabIndex = 1;
+            this.txtAddNewSpace.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
             // 
             // txtAlterSpaceAMount
             // 
-<<<<<<< HEAD
-            this.txtAlterSpaceAMount.Location = new System.Drawing.Point(158, 86);
-            this.txtAlterSpaceAMount.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAlterSpaceAMount.Location = new System.Drawing.Point(211, 108);
-            this.txtAlterSpaceAMount.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
+            this.txtAlterSpaceAMount.Location = new System.Drawing.Point(210, 108);
             this.txtAlterSpaceAMount.Name = "txtAlterSpaceAMount";
             this.txtAlterSpaceAMount.Size = new System.Drawing.Size(100, 39);
             this.txtAlterSpaceAMount.TabIndex = 3;
@@ -1448,55 +981,121 @@
             // label33
             // 
             this.label33.AutoSize = true;
-            this.label33.Location = new System.Drawing.Point(27, 111);
+            this.label33.Location = new System.Drawing.Point(26, 111);
             this.label33.Name = "label33";
             this.label33.Size = new System.Drawing.Size(174, 27);
             this.label33.TabIndex = 2;
             this.label33.Text = "活動空間坪數";
             // 
-            // txtAddNewSpace
+            // label34
             // 
-<<<<<<< HEAD
-            this.txtAddNewSpace.Location = new System.Drawing.Point(158, 49);
-            this.txtAddNewSpace.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtAddNewSpace.Location = new System.Drawing.Point(211, 61);
-            this.txtAddNewSpace.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
-            this.txtAddNewSpace.Name = "txtAddNewSpace";
-            this.txtAddNewSpace.Size = new System.Drawing.Size(100, 39);
-            this.txtAddNewSpace.TabIndex = 1;
-            this.txtAddNewSpace.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
+            this.label34.AutoSize = true;
+            this.label34.Location = new System.Drawing.Point(26, 163);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(120, 27);
+            this.label34.TabIndex = 4;
+            this.label34.Text = "提供區域";
             // 
-            // label32
+            // cmbAlterProvideSpace
             // 
-            this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(27, 21);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(120, 27);
-            this.label32.TabIndex = 0;
-            this.label32.Text = "空間名稱";
+            this.cmbAlterProvideSpace.FormattingEnabled = true;
+            this.cmbAlterProvideSpace.Location = new System.Drawing.Point(210, 160);
+            this.cmbAlterProvideSpace.Name = "cmbAlterProvideSpace";
+            this.cmbAlterProvideSpace.Size = new System.Drawing.Size(100, 35);
+            this.cmbAlterProvideSpace.TabIndex = 5;
             // 
-            // button1
+            // label35
             // 
-            this.button1.Location = new System.Drawing.Point(717, 84);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 137);
-            this.button1.TabIndex = 21;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.label35.AutoSize = true;
+            this.label35.Location = new System.Drawing.Point(26, 231);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(174, 27);
+            this.label35.TabIndex = 6;
+            this.label35.Text = "服務敘述內容";
+            // 
+            // txtServiceContent
+            // 
+            this.txtServiceContent.Location = new System.Drawing.Point(210, 228);
+            this.txtServiceContent.Multiline = true;
+            this.txtServiceContent.Name = "txtServiceContent";
+            this.txtServiceContent.Size = new System.Drawing.Size(264, 204);
+            this.txtServiceContent.TabIndex = 7;
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(181, 113);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(100, 35);
+            this.comboBox1.TabIndex = 55;
+            // 
+            // comboBox2
+            // 
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Location = new System.Drawing.Point(181, 198);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(100, 35);
+            this.comboBox2.TabIndex = 56;
+            // 
+            // label36
+            // 
+            this.label36.AutoSize = true;
+            this.label36.Location = new System.Drawing.Point(26, 66);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(120, 27);
+            this.label36.TabIndex = 8;
+            this.label36.Text = "新增空間";
+            // 
+            // cmdAlterSpaceName
+            // 
+            this.cmdAlterSpaceName.FormattingEnabled = true;
+            this.cmdAlterSpaceName.Location = new System.Drawing.Point(210, 18);
+            this.cmdAlterSpaceName.Name = "cmdAlterSpaceName";
+            this.cmdAlterSpaceName.Size = new System.Drawing.Size(100, 35);
+            this.cmdAlterSpaceName.TabIndex = 9;
+            // 
+            // btnAlterSave
+            // 
+            this.btnAlterSave.Location = new System.Drawing.Point(38, 445);
+            this.btnAlterSave.Name = "btnAlterSave";
+            this.btnAlterSave.Size = new System.Drawing.Size(115, 38);
+            this.btnAlterSave.TabIndex = 51;
+            this.btnAlterSave.Text = "儲存";
+            this.btnAlterSave.UseVisualStyleBackColor = true;
+            // 
+            // btnAlterAddPetSave
+            // 
+            this.btnAlterAddPetSave.Location = new System.Drawing.Point(431, 445);
+            this.btnAlterAddPetSave.Name = "btnAlterAddPetSave";
+            this.btnAlterAddPetSave.Size = new System.Drawing.Size(115, 38);
+            this.btnAlterAddPetSave.TabIndex = 57;
+            this.btnAlterAddPetSave.Text = "儲存";
+            this.btnAlterAddPetSave.UseVisualStyleBackColor = true;
+            // 
+            // btnAlterAddLiveSave
+            // 
+            this.btnAlterAddLiveSave.Location = new System.Drawing.Point(71, 455);
+            this.btnAlterAddLiveSave.Name = "btnAlterAddLiveSave";
+            this.btnAlterAddLiveSave.Size = new System.Drawing.Size(101, 38);
+            this.btnAlterAddLiveSave.TabIndex = 10;
+            this.btnAlterAddLiveSave.Text = "儲存";
+            this.btnAlterAddLiveSave.UseVisualStyleBackColor = true;
+            // 
+            // btnAlterSelectPic
+            // 
+            this.btnAlterSelectPic.Location = new System.Drawing.Point(192, 459);
+            this.btnAlterSelectPic.Name = "btnAlterSelectPic";
+            this.btnAlterSelectPic.Size = new System.Drawing.Size(89, 36);
+            this.btnAlterSelectPic.TabIndex = 58;
+            this.btnAlterSelectPic.Text = "瀏覽";
+            this.btnAlterSelectPic.UseVisualStyleBackColor = true;
             // 
             // frmMainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1051, 608);
+            this.ClientSize = new System.Drawing.Size(1050, 608);
             this.Controls.Add(this.tabControl1);
-<<<<<<< HEAD
-            this.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> e31fc4b22ef98d6420e6cdbad9948f7df437c286
             this.Name = "frmMainForm";
             this.Text = "frmMainForm";
             this.tabControl1.ResumeLayout(false);
@@ -1509,6 +1108,7 @@
             this.tabInn.ResumeLayout(false);
             this.tabInn.PerformLayout();
             this.tabShop.ResumeLayout(false);
+            this.tabUpdate.ResumeLayout(false);
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel1.PerformLayout();
             this.splitContainer1.Panel2.ResumeLayout(false);
@@ -1518,15 +1118,14 @@
             this.splitContainer2.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer2)).EndInit();
             this.splitContainer2.ResumeLayout(false);
-            this.tabUpdate.ResumeLayout(false);
-            this.tabControl2.ResumeLayout(false);
-            this.tabPage1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            this.tabPage2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.picAlterPetPic)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picAlterPetPic)).EndInit();
+            this.tabControl2.ResumeLayout(false);
+            this.tabPage1.ResumeLayout(false);
+            this.tabPage2.ResumeLayout(false);
             this.tabPage3.ResumeLayout(false);
             this.tabPage3.PerformLayout();
             this.ResumeLayout(false);
@@ -1632,6 +1231,5 @@
         private System.Windows.Forms.Button btnAlterAddPetSave;
         private System.Windows.Forms.Button btnAlterAddLiveSave;
         private System.Windows.Forms.Button btnAlterSelectPic;
-        private System.Windows.Forms.Button button1;
     }
 }
