@@ -9,3 +9,14 @@ C:\Users\III\Desktop\專題\work\專題Forms\ClsShopping\obj\Debug\ClsShopping.p
 C:\Users\III\Desktop\專題\work\專題Forms\ClsShopping\obj\Debug\ClsShopping.ShopingItem.resources
 C:\Users\III\Desktop\專題\work\專題Forms\ClsShopping\obj\Debug\ClsShopping.csproj.GenerateResource.Cache
 C:\Users\III\Desktop\專題\work\專題Forms\ClsShopping\obj\Debug\ClsShopping.ShoppingDetails.resources
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\bin\Debug\PuppyHouse.mdf
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\bin\Debug\PuppyHouse_log.ldf
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\bin\Debug\ClsShopping.dll.config
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\bin\Debug\ClsShopping.dll
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\bin\Debug\ClsShopping.pdb
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\obj\Debug\ClsShopping.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\obj\Debug\ClsShopping.ShopingItem.resources
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\obj\Debug\ClsShopping.ShoppingDetails.resources
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\obj\Debug\ClsShopping.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\obj\Debug\ClsShopping.dll
+C:\Users\III\Desktop\Pet_Housing\ClsShopping\obj\Debug\ClsShopping.pdb

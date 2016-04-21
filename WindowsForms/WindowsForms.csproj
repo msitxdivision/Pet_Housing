@@ -50,23 +50,47 @@
     <Compile Include="AddProducts.Designer.cs">
       <DependentUpon>AddProducts.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmAdminUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminUI.Designer.cs">
+      <DependentUpon>frmAdminUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlter.designer.cs">
+      <DependentUpon>frmAlter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGive.designer.cs">
+      <DependentUpon>frmGive.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmMainForm.cs">
+    <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmMainForm.Designer.cs">
-      <DependentUpon>frmMainForm.cs</DependentUpon>
+    <Compile Include="frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmNewMember.cs">
+    <Compile Include="frmMemberUI.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmNewMember.Designer.cs">
-      <DependentUpon>frmNewMember.cs</DependentUpon>
+    <Compile Include="frmMemberUI.Designer.cs">
+      <DependentUpon>frmMemberUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearch.designer.cs">
+      <DependentUpon>frmSearch.cs</DependentUpon>
     </Compile>
     <Compile Include="frmSearchResult.cs">
       <SubType>Form</SubType>
@@ -96,14 +120,26 @@
     <EmbeddedResource Include="AddProducts.resx">
       <DependentUpon>AddProducts.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminUI.resx">
+      <DependentUpon>frmAdminUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlter.resx">
+      <DependentUpon>frmAlter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGive.resx">
+      <DependentUpon>frmGive.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmMainForm.resx">
-      <DependentUpon>frmMainForm.cs</DependentUpon>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmNewMember.resx">
-      <DependentUpon>frmNewMember.cs</DependentUpon>
+    <EmbeddedResource Include="frmMemberUI.resx">
+      <DependentUpon>frmMemberUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearch.resx">
+      <DependentUpon>frmSearch.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSearchResult.resx">
       <DependentUpon>frmSearchResult.cs</DependentUpon>

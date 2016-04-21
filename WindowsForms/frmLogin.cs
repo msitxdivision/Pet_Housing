@@ -17,10 +17,28 @@ namespace WindowsForms
             InitializeComponent();
         }
 
-        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        public bool closelogin = true; //判斷Login關閉
+        public bool loginMember = false;
+        public bool loginAdmin = false;
+
+        private void btnMemberLogin_Click(object sender, EventArgs e) //會員登入
         {
-            frmNewMember NM = new frmNewMember();
-            NM.ShowDialog();
+            this.loginMember = true;
+            this.closelogin = false;
+            this.Close();
+        }
+
+        private void btnAdminLogin_Click(object sender, EventArgs e) //管理員登入
+        {
+            MessageBox.Show("登入成功");
+            this.loginAdmin = true;
+            this.closelogin = false;
+            this.Close();
+        }
+
+        private void btnMemberAdd_Click(object sender, EventArgs e) //加入會員
+        {
+            this.tabLoginForm.SelectedIndex = 0;
         }
     }
 }
